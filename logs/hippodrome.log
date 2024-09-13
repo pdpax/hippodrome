@@ -1,0 +1,10 @@
+2024-09-13 09:42:05.215 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-09-13 09:45:50.914 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-09-13 09:45:51.962 INFO [Main.main(Main.java:32):] End of the race. Winner: Pegasus
+2024-09-13 09:47:53.736 ERROR [Hippodrome.<init>(Hippodrome.java:16):] Horses list is null.
+2024-09-13 09:49:12.141 DEBUG [Hippodrome.<init>(Hippodrome.java:24):] Created Hippodrome with 7 horses
+2024-09-13 09:49:12.145 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-09-13 09:49:13.172 INFO [Main.main(Main.java:32):] End of the race. Winner: Pegasus
+2024-09-13 09:51:35.252 DEBUG [Hippodrome.<init>(Hippodrome.java:24):] Created Hippodrome with 7 horses
+2024-09-13 09:51:35.257 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-09-13 09:51:36.291 INFO [Main.main(Main.java:32):] End of the race. Winner: Pegasus
